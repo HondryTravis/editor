@@ -10,6 +10,7 @@ tmp
 .externalToolBuilders
 **/bolt/bootstrap*.js
 *~
+.github
 *.diff
 *.patch
 *.bak
